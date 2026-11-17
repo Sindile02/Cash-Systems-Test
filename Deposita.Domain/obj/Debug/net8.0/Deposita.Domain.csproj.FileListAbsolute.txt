@@ -1,0 +1,11 @@
+C:\Users\stseke\Downloads\Deposita.CashOperations\Deposita.Domain\bin\Debug\net8.0\Deposita.Domain.deps.json
+C:\Users\stseke\Downloads\Deposita.CashOperations\Deposita.Domain\bin\Debug\net8.0\Deposita.Domain.dll
+C:\Users\stseke\Downloads\Deposita.CashOperations\Deposita.Domain\bin\Debug\net8.0\Deposita.Domain.pdb
+C:\Users\stseke\Downloads\Deposita.CashOperations\Deposita.Domain\obj\Debug\net8.0\Deposita.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\stseke\Downloads\Deposita.CashOperations\Deposita.Domain\obj\Debug\net8.0\Deposita.Domain.AssemblyInfoInputs.cache
+C:\Users\stseke\Downloads\Deposita.CashOperations\Deposita.Domain\obj\Debug\net8.0\Deposita.Domain.AssemblyInfo.cs
+C:\Users\stseke\Downloads\Deposita.CashOperations\Deposita.Domain\obj\Debug\net8.0\Deposita.Domain.csproj.CoreCompileInputs.cache
+C:\Users\stseke\Downloads\Deposita.CashOperations\Deposita.Domain\obj\Debug\net8.0\Deposita.Domain.dll
+C:\Users\stseke\Downloads\Deposita.CashOperations\Deposita.Domain\obj\Debug\net8.0\refint\Deposita.Domain.dll
+C:\Users\stseke\Downloads\Deposita.CashOperations\Deposita.Domain\obj\Debug\net8.0\Deposita.Domain.pdb
+C:\Users\stseke\Downloads\Deposita.CashOperations\Deposita.Domain\obj\Debug\net8.0\ref\Deposita.Domain.dll

@@ -1,0 +1,15 @@
+C:\Users\stseke\Downloads\Deposita.CashOperations\Deposita.Application\bin\Debug\net8.0\Deposita.Application.deps.json
+C:\Users\stseke\Downloads\Deposita.CashOperations\Deposita.Application\bin\Debug\net8.0\Deposita.Application.dll
+C:\Users\stseke\Downloads\Deposita.CashOperations\Deposita.Application\bin\Debug\net8.0\Deposita.Application.pdb
+C:\Users\stseke\Downloads\Deposita.CashOperations\Deposita.Application\bin\Debug\net8.0\Deposita.Domain.dll
+C:\Users\stseke\Downloads\Deposita.CashOperations\Deposita.Application\bin\Debug\net8.0\Deposita.Domain.pdb
+C:\Users\stseke\Downloads\Deposita.CashOperations\Deposita.Application\obj\Debug\net8.0\Deposita.Application.csproj.AssemblyReference.cache
+C:\Users\stseke\Downloads\Deposita.CashOperations\Deposita.Application\obj\Debug\net8.0\Deposita.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\stseke\Downloads\Deposita.CashOperations\Deposita.Application\obj\Debug\net8.0\Deposita.Application.AssemblyInfoInputs.cache
+C:\Users\stseke\Downloads\Deposita.CashOperations\Deposita.Application\obj\Debug\net8.0\Deposita.Application.AssemblyInfo.cs
+C:\Users\stseke\Downloads\Deposita.CashOperations\Deposita.Application\obj\Debug\net8.0\Deposita.Application.csproj.CoreCompileInputs.cache
+C:\Users\stseke\Downloads\Deposita.CashOperations\Deposita.Application\obj\Debug\net8.0\Deposita.161CD76F.Up2Date
+C:\Users\stseke\Downloads\Deposita.CashOperations\Deposita.Application\obj\Debug\net8.0\Deposita.Application.dll
+C:\Users\stseke\Downloads\Deposita.CashOperations\Deposita.Application\obj\Debug\net8.0\refint\Deposita.Application.dll
+C:\Users\stseke\Downloads\Deposita.CashOperations\Deposita.Application\obj\Debug\net8.0\Deposita.Application.pdb
+C:\Users\stseke\Downloads\Deposita.CashOperations\Deposita.Application\obj\Debug\net8.0\ref\Deposita.Application.dll

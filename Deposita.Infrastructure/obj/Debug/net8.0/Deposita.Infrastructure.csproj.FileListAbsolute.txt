@@ -1,0 +1,17 @@
+C:\Users\stseke\Downloads\Deposita.CashOperations\Deposita.Infrastructure\bin\Debug\net8.0\Deposita.Infrastructure.deps.json
+C:\Users\stseke\Downloads\Deposita.CashOperations\Deposita.Infrastructure\bin\Debug\net8.0\Deposita.Infrastructure.dll
+C:\Users\stseke\Downloads\Deposita.CashOperations\Deposita.Infrastructure\bin\Debug\net8.0\Deposita.Infrastructure.pdb
+C:\Users\stseke\Downloads\Deposita.CashOperations\Deposita.Infrastructure\bin\Debug\net8.0\Deposita.Application.dll
+C:\Users\stseke\Downloads\Deposita.CashOperations\Deposita.Infrastructure\bin\Debug\net8.0\Deposita.Domain.dll
+C:\Users\stseke\Downloads\Deposita.CashOperations\Deposita.Infrastructure\bin\Debug\net8.0\Deposita.Application.pdb
+C:\Users\stseke\Downloads\Deposita.CashOperations\Deposita.Infrastructure\bin\Debug\net8.0\Deposita.Domain.pdb
+C:\Users\stseke\Downloads\Deposita.CashOperations\Deposita.Infrastructure\obj\Debug\net8.0\Deposita.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\stseke\Downloads\Deposita.CashOperations\Deposita.Infrastructure\obj\Debug\net8.0\Deposita.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\stseke\Downloads\Deposita.CashOperations\Deposita.Infrastructure\obj\Debug\net8.0\Deposita.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\stseke\Downloads\Deposita.CashOperations\Deposita.Infrastructure\obj\Debug\net8.0\Deposita.Infrastructure.AssemblyInfo.cs
+C:\Users\stseke\Downloads\Deposita.CashOperations\Deposita.Infrastructure\obj\Debug\net8.0\Deposita.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\stseke\Downloads\Deposita.CashOperations\Deposita.Infrastructure\obj\Debug\net8.0\Deposita.92979B3B.Up2Date
+C:\Users\stseke\Downloads\Deposita.CashOperations\Deposita.Infrastructure\obj\Debug\net8.0\Deposita.Infrastructure.dll
+C:\Users\stseke\Downloads\Deposita.CashOperations\Deposita.Infrastructure\obj\Debug\net8.0\refint\Deposita.Infrastructure.dll
+C:\Users\stseke\Downloads\Deposita.CashOperations\Deposita.Infrastructure\obj\Debug\net8.0\Deposita.Infrastructure.pdb
+C:\Users\stseke\Downloads\Deposita.CashOperations\Deposita.Infrastructure\obj\Debug\net8.0\ref\Deposita.Infrastructure.dll

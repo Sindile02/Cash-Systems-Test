@@ -1,0 +1,241 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\stseke\\Downloads\\Deposita.CashOperations\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E0426086-2FD8-4968-BC86-0AC99154CEBE}|Deposita.Api\\Deposita.Api.csproj|c:\\users\\stseke\\downloads\\deposita.cashoperations\\deposita.api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{E0426086-2FD8-4968-BC86-0AC99154CEBE}|Deposita.Api\\Deposita.Api.csproj|solutionrelative:deposita.api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0426086-2FD8-4968-BC86-0AC99154CEBE}|Deposita.Api\\Deposita.Api.csproj|c:\\users\\stseke\\downloads\\deposita.cashoperations\\deposita.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{E0426086-2FD8-4968-BC86-0AC99154CEBE}|Deposita.Api\\Deposita.Api.csproj|solutionrelative:deposita.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0426086-2FD8-4968-BC86-0AC99154CEBE}|Deposita.Api\\Deposita.Api.csproj|c:\\users\\stseke\\downloads\\deposita.cashoperations\\deposita.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0426086-2FD8-4968-BC86-0AC99154CEBE}|Deposita.Api\\Deposita.Api.csproj|solutionrelative:deposita.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0426086-2FD8-4968-BC86-0AC99154CEBE}|Deposita.Api\\Deposita.Api.csproj|c:\\users\\stseke\\downloads\\deposita.cashoperations\\deposita.api\\controllers\\transactionscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0426086-2FD8-4968-BC86-0AC99154CEBE}|Deposita.Api\\Deposita.Api.csproj|solutionrelative:deposita.api\\controllers\\transactionscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62A033D6-C449-4E84-88E3-B0B193663C63}|Deposita.Infrastructure\\Deposita.Infrastructure.csproj|c:\\users\\stseke\\downloads\\deposita.cashoperations\\deposita.infrastructure\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{62A033D6-C449-4E84-88E3-B0B193663C63}|Deposita.Infrastructure\\Deposita.Infrastructure.csproj|solutionrelative:deposita.infrastructure\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0426086-2FD8-4968-BC86-0AC99154CEBE}|Deposita.Api\\Deposita.Api.csproj|c:\\users\\stseke\\downloads\\deposita.cashoperations\\deposita.api\\infrastructure\\globalexceptionhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0426086-2FD8-4968-BC86-0AC99154CEBE}|Deposita.Api\\Deposita.Api.csproj|solutionrelative:deposita.api\\infrastructure\\globalexceptionhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62A033D6-C449-4E84-88E3-B0B193663C63}|Deposita.Infrastructure\\Deposita.Infrastructure.csproj|c:\\users\\stseke\\downloads\\deposita.cashoperations\\deposita.infrastructure\\deposita.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{62A033D6-C449-4E84-88E3-B0B193663C63}|Deposita.Infrastructure\\Deposita.Infrastructure.csproj|solutionrelative:deposita.infrastructure\\deposita.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62A033D6-C449-4E84-88E3-B0B193663C63}|Deposita.Infrastructure\\Deposita.Infrastructure.csproj|c:\\users\\stseke\\downloads\\deposita.cashoperations\\deposita.infrastructure\\persistence\\configurations\\transactionconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{62A033D6-C449-4E84-88E3-B0B193663C63}|Deposita.Infrastructure\\Deposita.Infrastructure.csproj|solutionrelative:deposita.infrastructure\\persistence\\configurations\\transactionconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62A033D6-C449-4E84-88E3-B0B193663C63}|Deposita.Infrastructure\\Deposita.Infrastructure.csproj|c:\\users\\stseke\\downloads\\deposita.cashoperations\\deposita.infrastructure\\persistence\\bankingdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{62A033D6-C449-4E84-88E3-B0B193663C63}|Deposita.Infrastructure\\Deposita.Infrastructure.csproj|solutionrelative:deposita.infrastructure\\persistence\\bankingdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{914235E5-46FF-48A9-A285-BF81CD8786BA}|Deposita.Application\\Deposita.Application.csproj|c:\\users\\stseke\\downloads\\deposita.cashoperations\\deposita.application\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{914235E5-46FF-48A9-A285-BF81CD8786BA}|Deposita.Application\\Deposita.Application.csproj|solutionrelative:deposita.application\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{914235E5-46FF-48A9-A285-BF81CD8786BA}|Deposita.Application\\Deposita.Application.csproj|c:\\users\\stseke\\downloads\\deposita.cashoperations\\deposita.application\\transactions\\commands\\deletetransaction\\deletetransactioncommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{914235E5-46FF-48A9-A285-BF81CD8786BA}|Deposita.Application\\Deposita.Application.csproj|solutionrelative:deposita.application\\transactions\\commands\\deletetransaction\\deletetransactioncommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{914235E5-46FF-48A9-A285-BF81CD8786BA}|Deposita.Application\\Deposita.Application.csproj|c:\\users\\stseke\\downloads\\deposita.cashoperations\\deposita.application\\transactions\\commands\\updatetransaction\\updatetransactioncommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{914235E5-46FF-48A9-A285-BF81CD8786BA}|Deposita.Application\\Deposita.Application.csproj|solutionrelative:deposita.application\\transactions\\commands\\updatetransaction\\updatetransactioncommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{914235E5-46FF-48A9-A285-BF81CD8786BA}|Deposita.Application\\Deposita.Application.csproj|c:\\users\\stseke\\downloads\\deposita.cashoperations\\deposita.application\\transactions\\commands\\updatetransaction\\updatetransactioncommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{914235E5-46FF-48A9-A285-BF81CD8786BA}|Deposita.Application\\Deposita.Application.csproj|solutionrelative:deposita.application\\transactions\\commands\\updatetransaction\\updatetransactioncommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\stseke\\Downloads\\Deposita.CashOperations\\Deposita.Api\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Deposita.Api\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\stseke\\Downloads\\Deposita.CashOperations\\Deposita.Api\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Deposita.Api\\Properties\\launchSettings.json",
+              "ViewState": "AgIAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-11-17T18:23:17.92Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\stseke\\Downloads\\Deposita.CashOperations\\Deposita.Api\\appsettings.json",
+              "RelativeDocumentMoniker": "Deposita.Api\\appsettings.json",
+              "ToolTip": "C:\\Users\\stseke\\Downloads\\Deposita.CashOperations\\Deposita.Api\\appsettings.json",
+              "RelativeToolTip": "Deposita.Api\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-11-17T15:02:45.663Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "TransactionsController.cs",
+              "DocumentMoniker": "C:\\Users\\stseke\\Downloads\\Deposita.CashOperations\\Deposita.Api\\Controllers\\TransactionsController.cs",
+              "RelativeDocumentMoniker": "Deposita.Api\\Controllers\\TransactionsController.cs",
+              "ToolTip": "C:\\Users\\stseke\\Downloads\\Deposita.CashOperations\\Deposita.Api\\Controllers\\TransactionsController.cs",
+              "RelativeToolTip": "Deposita.Api\\Controllers\\TransactionsController.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAqwCUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-17T14:55:33.597Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "GlobalExceptionHandler.cs",
+              "DocumentMoniker": "C:\\Users\\stseke\\Downloads\\Deposita.CashOperations\\Deposita.Api\\Infrastructure\\GlobalExceptionHandler.cs",
+              "RelativeDocumentMoniker": "Deposita.Api\\Infrastructure\\GlobalExceptionHandler.cs",
+              "ToolTip": "C:\\Users\\stseke\\Downloads\\Deposita.CashOperations\\Deposita.Api\\Infrastructure\\GlobalExceptionHandler.cs",
+              "RelativeToolTip": "Deposita.Api\\Infrastructure\\GlobalExceptionHandler.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAAAYwDIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-17T14:52:37.724Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Deposita.Infrastructure",
+              "DocumentMoniker": "C:\\Users\\stseke\\Downloads\\Deposita.CashOperations\\Deposita.Infrastructure\\Deposita.Infrastructure.csproj",
+              "RelativeDocumentMoniker": "Deposita.Infrastructure\\Deposita.Infrastructure.csproj",
+              "ToolTip": "C:\\Users\\stseke\\Downloads\\Deposita.CashOperations\\Deposita.Infrastructure\\Deposita.Infrastructure.csproj",
+              "RelativeToolTip": "Deposita.Infrastructure\\Deposita.Infrastructure.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-11-17T14:51:34.28Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "TransactionConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\stseke\\Downloads\\Deposita.CashOperations\\Deposita.Infrastructure\\Persistence\\Configurations\\TransactionConfiguration.cs",
+              "RelativeDocumentMoniker": "Deposita.Infrastructure\\Persistence\\Configurations\\TransactionConfiguration.cs",
+              "ToolTip": "C:\\Users\\stseke\\Downloads\\Deposita.CashOperations\\Deposita.Infrastructure\\Persistence\\Configurations\\TransactionConfiguration.cs",
+              "RelativeToolTip": "Deposita.Infrastructure\\Persistence\\Configurations\\TransactionConfiguration.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAA3wBcAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-17T14:50:15.877Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "BankingDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\stseke\\Downloads\\Deposita.CashOperations\\Deposita.Infrastructure\\Persistence\\BankingDbContext.cs",
+              "RelativeDocumentMoniker": "Deposita.Infrastructure\\Persistence\\BankingDbContext.cs",
+              "ToolTip": "C:\\Users\\stseke\\Downloads\\Deposita.CashOperations\\Deposita.Infrastructure\\Persistence\\BankingDbContext.cs",
+              "RelativeToolTip": "Deposita.Infrastructure\\Persistence\\BankingDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-17T14:48:45.601Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\stseke\\Downloads\\Deposita.CashOperations\\Deposita.Api\\Program.cs",
+              "RelativeDocumentMoniker": "Deposita.Api\\Program.cs",
+              "ToolTip": "C:\\Users\\stseke\\Downloads\\Deposita.CashOperations\\Deposita.Api\\Program.cs",
+              "RelativeToolTip": "Deposita.Api\\Program.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAYwCQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-17T14:46:36.931Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DependencyInjection.cs",
+              "DocumentMoniker": "C:\\Users\\stseke\\Downloads\\Deposita.CashOperations\\Deposita.Infrastructure\\DependencyInjection.cs",
+              "RelativeDocumentMoniker": "Deposita.Infrastructure\\DependencyInjection.cs",
+              "ToolTip": "C:\\Users\\stseke\\Downloads\\Deposita.CashOperations\\Deposita.Infrastructure\\DependencyInjection.cs",
+              "RelativeToolTip": "Deposita.Infrastructure\\DependencyInjection.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAABWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-17T14:46:23.499Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "DependencyInjection.cs",
+              "DocumentMoniker": "C:\\Users\\stseke\\Downloads\\Deposita.CashOperations\\Deposita.Application\\DependencyInjection.cs",
+              "RelativeDocumentMoniker": "Deposita.Application\\DependencyInjection.cs",
+              "ToolTip": "C:\\Users\\stseke\\Downloads\\Deposita.CashOperations\\Deposita.Application\\DependencyInjection.cs",
+              "RelativeToolTip": "Deposita.Application\\DependencyInjection.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAQwBIAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-17T14:45:23.277Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "DeleteTransactionCommand.cs",
+              "DocumentMoniker": "C:\\Users\\stseke\\Downloads\\Deposita.CashOperations\\Deposita.Application\\Transactions\\Commands\\DeleteTransaction\\DeleteTransactionCommand.cs",
+              "RelativeDocumentMoniker": "Deposita.Application\\Transactions\\Commands\\DeleteTransaction\\DeleteTransactionCommand.cs",
+              "ToolTip": "C:\\Users\\stseke\\Downloads\\Deposita.CashOperations\\Deposita.Application\\Transactions\\Commands\\DeleteTransaction\\DeleteTransactionCommand.cs",
+              "RelativeToolTip": "Deposita.Application\\Transactions\\Commands\\DeleteTransaction\\DeleteTransactionCommand.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAQwAcAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-17T14:44:45.42Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "UpdateTransactionCommandHandler.cs",
+              "DocumentMoniker": "C:\\Users\\stseke\\Downloads\\Deposita.CashOperations\\Deposita.Application\\Transactions\\Commands\\UpdateTransaction\\UpdateTransactionCommandHandler.cs",
+              "RelativeDocumentMoniker": "Deposita.Application\\Transactions\\Commands\\UpdateTransaction\\UpdateTransactionCommandHandler.cs",
+              "ToolTip": "C:\\Users\\stseke\\Downloads\\Deposita.CashOperations\\Deposita.Application\\Transactions\\Commands\\UpdateTransaction\\UpdateTransactionCommandHandler.cs",
+              "RelativeToolTip": "Deposita.Application\\Transactions\\Commands\\UpdateTransaction\\UpdateTransactionCommandHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-17T14:44:17.737Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "UpdateTransactionCommand.cs",
+              "DocumentMoniker": "C:\\Users\\stseke\\Downloads\\Deposita.CashOperations\\Deposita.Application\\Transactions\\Commands\\UpdateTransaction\\UpdateTransactionCommand.cs",
+              "RelativeDocumentMoniker": "Deposita.Application\\Transactions\\Commands\\UpdateTransaction\\UpdateTransactionCommand.cs",
+              "ToolTip": "C:\\Users\\stseke\\Downloads\\Deposita.CashOperations\\Deposita.Application\\Transactions\\Commands\\UpdateTransaction\\UpdateTransactionCommand.cs",
+              "RelativeToolTip": "Deposita.Application\\Transactions\\Commands\\UpdateTransaction\\UpdateTransactionCommand.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAIwCAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-17T14:43:51.432Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
